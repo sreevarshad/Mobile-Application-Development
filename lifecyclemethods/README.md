@@ -127,18 +127,18 @@ ActivityMain.xml
 
 onStart():
 
-![]()
+![](k1.png)
 
 onCreate():
 
-![]()
+![](k2.png)
 
 onDestroy():
 
-![]()
+![](k3.png)
 
 onStop():
-![]()
+![](k4.png)
 
 
 
