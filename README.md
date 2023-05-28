@@ -1,11 +1,12 @@
-Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages.
-AIM:
+# Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages.
+
+### AIM:
 To create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio.
 
-EQUIPMENTS REQUIRED:
+### EQUIPMENTS REQUIRED:
 Latest Version Android Studio
 
-ALGORITHM:
+### ALGORITHM:
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as HelloWorld and click Next.
@@ -20,7 +21,7 @@ Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
 
-PROGRAM:
+### PROGRAM:
 Program to print the text “Hello World”.
 
 Developed by:Kathirvelan.K
@@ -29,6 +30,7 @@ Registeration Number :212221220026
 
 MainActivity.java
 
+```
 package com.example.helloworld;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
@@ -89,9 +91,9 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "onRestart", Toast.LENGTH_SHORT).show();
     }
 }
-
+```
 ActivityMain.xml
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -114,21 +116,27 @@ ActivityMain.xml
         app:layout_constraintVertical_bias="0.499" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>`
+```
 
-OUTPUT
+### OUTPUT
 onCreate():
 
+![](k1.png)
 
 
 onStart():
 
+![](k2.png)
 
 
 onDestroy():
 
+![](k3.png)
 
 
 onStop():
+
+![](k4.png)
 
 
 
