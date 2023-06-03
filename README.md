@@ -119,22 +119,15 @@ ActivityMain.xml
 ```
 
 ### OUTPUT:
-onCreate():
 
 ![](k1.png)
 
 
-onStart():
-
 ![](k2.png)
 
 
-onDestroy():
-
 ![](k3.png)
 
-
-onStop():
 
 ![](k4.png)
 
