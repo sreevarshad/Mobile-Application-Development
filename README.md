@@ -122,7 +122,7 @@ activitymain.xml
 
 ### OUTPUT:
 
-![](mmm 1.png)
+![](https://github.com/sreevarshad/Mobile-Application-Development/blob/main/mmm%201.png)
 
 
 ![](k1.png)
