@@ -26,9 +26,9 @@ Step 7: Save and run the application.
 ### PROGRAM:
 Program to print the text Hello World
 
-Developed by:Sreevarsha.D
+Developed by:Sreevarsha D
 
-Registeration Number :212221040159
+Registeration Number:212221040159
 
 MainActivity.java
 
@@ -125,12 +125,9 @@ activitymain.xml
 ![](https://github.com/sreevarshad/Mobile-Application-Development/blob/main/mmm%201.png)
 
 
-![](k1.png)
-![](k2.png)
+<img src="https://github.com/sreevarshad/Mobile-Application-Development/blob/main/k1.png" width="300" height="500"><img src="https://github.com/sreevarshad/Mobile-Application-Development/blob/main/k2.png" width="300" height="500">
 
-
-![](k3.png)
-![](k4.png)
+<img src="https://github.com/sreevarshad/Mobile-Application-Development/blob/main/k3.png" width="300" height="500"><img src="https://github.com/sreevarshad/Mobile-Application-Development/blob/main/k4.png" width="300" height="500">
 
 
 
