@@ -120,17 +120,12 @@ activity_main.xml
 
 ### OUTPUT:
 
-![](k1.png)
+![](https://github.com/sreevarshad/Mobile-Application-Development/blob/main/mmm%201.png)
 
 
-![](k2.png)
+<img src="https://github.com/sreevarshad/Mobile-Application-Development/blob/main/k1.png" width="300" height="500"><img src="https://github.com/sreevarshad/Mobile-Application-Development/blob/main/k2.png" width="300" height="500">
 
-
-![](k3.png)
-
-
-![](k4.png)
-
+<img src="https://github.com/sreevarshad/Mobile-Application-Development/blob/main/k3.png" width="300" height="500"><img src="https://github.com/sreevarshad/Mobile-Application-Development/blob/main/k4.png" width="300" height="500">
 
 
 ### RESULT:
